@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"github.com/mft-labs/agilebindata/bindata"
+	"github.com/vtils/gobundle/bindata"
 )
 
 func main() {

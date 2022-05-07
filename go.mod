@@ -1,5 +1,5 @@
-module github.com/mft-labs/agilebindata
+module github.com/vtils/gobundle
 
-replace "github.com/mft-labs/agilebindata" => "./"
+replace "github.com/vtils/gobundle" => "./"
 
 go 1.16

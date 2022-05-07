@@ -1,4 +1,4 @@
-# agilebindata
+# gobundle
 
 
-./agilebindata -embed somefile.ext -saveas reqdfilename
+./gobundle -embed somefile.ext -saveas reqdfilename
